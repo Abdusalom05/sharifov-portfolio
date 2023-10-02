@@ -1856,6 +1856,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   .info-content .name {
     white-space: nowrap;
     text-align: center;
+    font-size: 22px; 
   }
 
   .info-content .title { margin: auto; }
